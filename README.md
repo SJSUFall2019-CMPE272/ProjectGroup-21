@@ -9,7 +9,7 @@ Team Members:
 
 
 
-1)  Groupify
+**1)  Groupify**
 
 Description :
 
@@ -25,7 +25,7 @@ Technology Stack:
 Python, Machine Learning, Jupyter Notebook, sci-kit learn, public movie dataset, TBD
 
 
-2) FireFighter
+**2) FireFighter**
 
 Description: 
 
@@ -40,7 +40,7 @@ Python, Machine learning, Jupyter Notebook, Data Visualisation, Accidental fires
 
 
 
-3) SmartRecruiter
+**3) SmartRecruiter**
 
 Description:
 When a poisiton is open for hire the recruiter will use the system in such a way that by enetering the position tiltle and related requirements, it will search the dataset containig all the CV's avialable in the organisation. It will then generate the reprot of candidates who are most suitable for the position.
