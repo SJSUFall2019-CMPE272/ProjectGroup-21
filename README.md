@@ -32,7 +32,7 @@ Python, Machine learning, Jupyter Notebook, Data Visualization, Accidental fires
 **3) SmartRecruiter**
 
 Description:
-Hiring proper candidate for any position does take a lot of time, cost and efforts. The aim of this project is to boost        this   initial screening and help recruiter to filter from the available candidates. A position title and related requirements will   be used to fetch appropriate candidate from the available resumes. It will then generate a report of candidates who are most suitable for the position.
+Hiring proper candidate for any position does take a lot of time, cost and efforts. The aim of this project is to boost        this   initial screening and help recruiter to filter from the available candidates. A position title and related requirements will   be used to fetch appropriate candidate from the available resumes. It will then generate a report of candidates who are the most suitable for the position.
 
 Goal:
 It will reduce the time to find the appropriate candidate for the position by automating the recruitment process.
