@@ -23,7 +23,7 @@ Goal: This system can help citizens to determine which was the most effective go
 
 Note: Based on the available data we change the scope of this problem statement(country, state or district etc).
 
-**Technology stack Dataset: kaggle, Harvard Dataverse Language: Python Visualisation: D3.js Domain: Machine Learning**
+**Technology stack **: kaggle, Harvard Dataverse Datasets, Language: Python, Visualisation: D3.js, Domain: Machine Learning**
 
 **1) Groupify**
 
