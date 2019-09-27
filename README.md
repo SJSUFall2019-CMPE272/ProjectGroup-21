@@ -11,23 +11,19 @@ Team Members:
 
 **WhomToVote?**
 
-*Description*: By using the electorial dataset of indian elections(1977-2015), a system can predict candidate's wining probability by analysing voting pattern, voters' social and economical background as well as taking into account candidate's political background.
+Description: By using the electoral dataset of Indian elections(1977-2015), a system can predict candidate's winning probability by analyzing the voting pattern, voters' social and economical background as well as taking into account candidate's political background.
 
-*Goal*:This system can help political parties to find appropriate candidates who has higher chances of wining elections.
+Goal: This system can help political parties to find appropriate candidates who have higher chances of winning elections.
 
 Alternative Approach
 
-*Description*:By using the dataset of indian election, a system can analyze voting patterns, change in economy, poverty, GDP growth rate and various other parameters to determine performance of the previously elected goverment.
+Description: By using the dataset of Indian election, a system can analyze voting patterns, change in the economy, poverty, GDP growth rate, and various other parameters to determine the performance of the previously elected government.
 
-*Goal*: This system can help citizens  to determine which was the most effective government in previous years based on data and facts.
+Goal: This system can help citizens to determine which was the most effective government in previous years based on data and facts.
 
-*Note*: Based on the available data we change change the scope of this problem statement(country, state or district etc).
+Note: Based on the available data we change the scope of this problem statement(country, state or district etc).
 
-**Technology stack
-Dataset: kaggle, Harvard Dataverse
-Language:Python
-Visualisation: D3.js 
-**
+**Technology stack Dataset: kaggle, Harvard Dataverse Language: Python Visualisation: D3.js Domain: Machine Learning**
 
 **1) Groupify**
 
