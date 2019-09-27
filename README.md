@@ -7,6 +7,28 @@ Team Members:
 4. Ashwini Ulhas Talele
 
 
+***New Idea :***
+
+**WhomToVote?**
+
+*Description*: By using the electorial dataset of indian elections(1977-2015), a system can predict candidate's wining probability by analysing voting pattern, voters' social and economical background as well as taking into account candidate's political background.
+
+*Goal*:This system can help political parties to find appropriate candidates who has higher chances of wining elections.
+
+Alternative Approach
+
+*Description*:By using the dataset of indian election, a system can analyze voting patterns, change in economy, poverty, GDP growth rate and various other parameters to determine performance of the previously elected goverment.
+
+*Goal*: This system can help citizens  to determine which was the most effective government in previous years based on data and facts.
+
+*Note*: Based on the available data we change change the scope of this problem statement(country, state or district etc).
+
+**Technology stack
+Dataset: kaggle, Harvard Dataverse
+Language:Python
+Visualisation: D3.js 
+**
+
 **1) Groupify**
 
 Description:
