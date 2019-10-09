@@ -8,7 +8,8 @@ Team Members:
 
 **WhomToVote?**
 
-Abstract: 
+<h3>Abstract: </h3>
+For any country, the government holds an important role for comprehensive development which is expected by the citizens. In order to decide which government to vote for, thorough knowledge is required. But, due to data abuse and digital frauds, people are convinced to vote for a particular candidate which might be misleading. Media and other resources might portray the details which forms biased government. The factors that one should take into consideration to select a government are economic growth, literacy rate etc. The aim is to gather data from previous elections, analyze economic growth patterns and represent in a visual format which can be easily understood by the voters. 
 
 
 <h3>Architecture Diagram</h3>
