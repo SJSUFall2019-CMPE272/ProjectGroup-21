@@ -11,7 +11,9 @@ Team Members:
 Abstract: 
 
 
+<h3>Architecture Diagram</h3>
 
+![](Architecture.png)
 Description: By using the electoral dataset of Indian elections(1977-2015), a system can predict candidate's winning probability by analyzing the voting pattern, voters' social and economical background as well as taking into account candidate's political background.
 
 Goal: This system can help political parties to find appropriate candidates who have higher chances of winning elections.
