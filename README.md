@@ -19,7 +19,7 @@ Alternative Approach
 
 Description: By using the dataset of Indian election, a system can analyze voting patterns, change in the economy, poverty, GDP growth rate, and various other parameters to determine the performance of the previously elected government.
 
-Goal: This system can help citizens to determine which was the most effective government in previous years based on data and facts.
+Goal: This system can help citizens to determine which was the most effective government in previous years based on data and facts. This will avoid data abuse for electoral purpose.
 
 Note: Based on the available data we change the scope of this problem statement(country, state or district etc).
 
