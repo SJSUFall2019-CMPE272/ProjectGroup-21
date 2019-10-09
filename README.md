@@ -27,6 +27,11 @@ Goal: This system can help citizens to determine which was the most effective go
 
 Note: Based on the available data we change the scope of this problem statement(country, state or district etc).
 
-**Technology stack **: kaggle, Harvard Dataverse Datasets, Language: Python, Visualisation: D3.js, Domain: Machine Learning**
+**Technology stack: 
+<br>Datasets: Kaggle, Election Commision of India
+<br>Language: Python, Javascript
+<br>Infrastructure: Docker, AWS DynamoDB, S3, EC2, ELB, ASG, Route53
+<br>Visualisation: D3.js
+Domain: Machine Learning**
 
 
