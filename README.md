@@ -25,19 +25,22 @@ For any country, the government holds an important role for comprehensive develo
 
 <h2>Personas and Hill Statement</h2>
 
-1. Voter: Voter can view the results based on economic growth in a particular period and vote for upcoming elections.
+<b>1. Voter: Voter can view the results based on economic growth in a particular period and vote for upcoming elections.</b>
   
-  Who? Voter
-  What? Can view voting data  
-  How? in the form of graphs
+ <li> Who? Voter</li>
+  <li>What? Can view voting data  </li>
+  <li>How? in the form of graphs</li>
   
-2. Political Party: A political party can view prediction and plan their campaign accordingly.
+<b>2. Political Party: A political party can view prediction and plan their campaign accordingly.</b>
   
-  Who? Political Party
-  What? Can view voting data to look at thier progress
-  How? by looking at the predictions
+  <li>Who? Political Party</li>
+  <li>What? Can view voting data to look at thier progress</li>
+  <li>How? by looking at the predictions</li>
   
-  
+<br>
+<br>
+<br>
+<br>
   
 **Technology stack: 
 <br>Datasets: Kaggle, Election Commision of India
