@@ -30,7 +30,7 @@ For any country, the government holds an important role for comprehensive develo
  <li> Who? Voter</li>
   <li>What? Can view voting data  </li>
   <li>How? in the form of graphs</li>
-  
+  <br>
 <b>2. Political Party: A political party can view prediction and plan their campaign accordingly.</b>
   
   <li>Who? Political Party</li>
@@ -39,8 +39,7 @@ For any country, the government holds an important role for comprehensive develo
   
 <br>
 <br>
-<br>
-<br>
+
   
 **Technology stack: 
 <br>Datasets: Kaggle, Election Commision of India
