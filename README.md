@@ -32,7 +32,7 @@ For any country, the government holds an important role for comprehensive develo
   <li>How? in the form of graphs</li>
   <br>
 <b>2. Political Party: A political party can view prediction and plan their campaign accordingly.</b>
-  
+  <br>
   <li>Who? Political Party</li>
   <li>What? Can view voting data to look at thier progress</li>
   <li>How? by looking at the predictions</li>
