@@ -21,6 +21,24 @@ For any country, the government holds an important role for comprehensive develo
 ![Architecture diagram](Architecture.png)
 
 
+<h3>Design Thinking</h3>
+
+<h2>Personas and Hill Statement</h2>
+
+1. Voter: Voter can view the results based on economic growth in a particular period and vote for upcoming elections.
+  
+  Who? Voter
+  What? Can view voting data  
+  How? in the form of graphs
+  
+2. Political Party: A political party can view prediction and plan their campaign accordingly.
+  
+  Who? Political Party
+  What? Can view voting data to look at thier progress
+  How? by looking at the predictions
+  
+  
+  
 **Technology stack: 
 <br>Datasets: Kaggle, Election Commision of India
 <br>Language: Python, Javascript
