@@ -10,10 +10,10 @@ Team Members:
 
 Description: By using the dataset of US Presendental election, a system can analyze voting patterns, change in the economy, employement rate , per capita income growth rate, and various other parameters to determine the data of the voters and predict the results based on the current data.
 
-Goal: This system can help citizen to get the information of voting demogtaphic of a political party.This way they can know which party could win the election using latest data.
+Goal: This system can help citizen to get the information of voting demographic of a political party.This way they can know which party could win the election using latest data.
 
 <h3>Abstract: </h3>
-For any country, the government holds an important role for comprehensive development which is expected by the citizens. In order to decide which government to vote for, thorough knowledge is required. But, due to data abuse and digital frauds, people are convinced to vote for a particular candidate which might be misleading. Media and other resources might portray the details which forms biased government. The factors that one should take into consideration to select a government are economic growth, literacy rate etc. The aim is to gather data from previous elections, analyze economic growth patterns and represent in a visual format which can be easily understood by the voters. 
+For any country, the government holds an important role for comprehensive development which is expected by the citizens. Based on this system, the political party can get an idea about demographic of their average voters. Using which, the party can take proper actions and plan their campaign accordingly. Apart from this, they get the basic idea what they need to improve. As a citizen, you can get information of various factors like employment rate, per capita income, literact rate of each political party, and cast your vote to the party who works on things which you want to improve. Looking at the category wise graphical view, user can decide whom to vote
 
 
 <h3>Architecture Diagram</h3>
