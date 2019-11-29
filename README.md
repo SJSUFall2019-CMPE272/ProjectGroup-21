@@ -8,9 +8,9 @@ Team Members:
 
 **WhomToVote?**
 
-Description: By using the dataset of Indian election, a system can analyze voting patterns, change in the economy, poverty, GDP growth rate, and various other parameters to determine the performance of the previously elected government.
+Description: By using the dataset of US Presendental election, a system can analyze voting patterns, change in the economy, employement rate , per capita income growth rate, and various other parameters to determine the data of the voters and predict the results based on the current data.
 
-Goal: This system can help citizens to determine which was the most effective government in previous years based on data and facts. This will avoid data abuse for electoral purpose.
+Goal: This system can help citizen to get the information of voting demogtaphic of a political party.This way they can know which party could win the election using latest data.
 
 <h3>Abstract: </h3>
 For any country, the government holds an important role for comprehensive development which is expected by the citizens. In order to decide which government to vote for, thorough knowledge is required. But, due to data abuse and digital frauds, people are convinced to vote for a particular candidate which might be misleading. Media and other resources might portray the details which forms biased government. The factors that one should take into consideration to select a government are economic growth, literacy rate etc. The aim is to gather data from previous elections, analyze economic growth patterns and represent in a visual format which can be easily understood by the voters. 
