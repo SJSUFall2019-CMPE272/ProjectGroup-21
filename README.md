@@ -42,10 +42,10 @@ For any country, the government holds an important role for comprehensive develo
 
   
 **Technology stack: 
-<br>Datasets: Kaggle, Election Commision of India
-<br>Language: Python, Javascript
-<br>Infrastructure: Docker, AWS DynamoDB, S3, EC2, ELB, ASG, Route53
-<br>Visualisation: D3.js
+<br>Datasets: Opendata
+<br>Language: Python, Javascript,React
+<br>Infrastructure: Docker, AWS
+<br>Visualisation: Chart.js
 Domain: Machine Learning**
 
 
